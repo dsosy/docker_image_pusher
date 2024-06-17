@@ -5,5 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 mzz2017/v2raya
-fzlzl/nas-tools-Docker
-carolcoral/jxxghp-nas-tools
+jxxghp/nas-tools:latest
