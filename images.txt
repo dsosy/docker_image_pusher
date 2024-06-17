@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 mzz2017/v2raya
 fzlzl/nas-tools-Docker
+carolcoral/jxxghp-nas-tools
