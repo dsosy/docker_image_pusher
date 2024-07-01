@@ -7,3 +7,4 @@ xhofe/alist:latest
 mzz2017/v2raya
 nastool/nas-tools:latest
 v2fly/docker
+jxxghp-nas-tools
